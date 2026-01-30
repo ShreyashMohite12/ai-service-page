@@ -1,7 +1,7 @@
 # AI Consulting Services Page
 
 ## Live Demo
-[View on Netlify](https://your-link.netlify.app)
+[View on Netlify](shreyash0311.netlify.app)
 
 ## Features
 - Gradient hero section with scroll-to-contact
